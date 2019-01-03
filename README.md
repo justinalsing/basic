@@ -2,7 +2,7 @@
 
 **BAyeSian Integrated and Consilidated (BASIC)** composite super-merging for atmospheric and climate time-series data.
 
-This package implements the BASIC algorithm descibed in [Ball et al 2017](https://www.atmos-chem-phys.net/17/12269/2017/acp-17-12269-2017.html) for constructing a super-merged composite product from a set of discrepant composite time-series records. 
+This package implements the BASIC algorithm descibed in [Ball et al 2017](https://www.atmos-chem-phys.net/17/12269/2017/acp-17-12269-2017.html) for constructing a super-merged composite product from a set of potentially artefact biased composite time-series records. 
 
 ### Installation
 
